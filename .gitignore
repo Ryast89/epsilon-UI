@@ -1,7 +1,7 @@
 venv/
 __pycache__/
 .config/
-.lock
+poetry.lock
 .qmqwu73thu2h3061790537~
 .breakpoints
 pyproject.toml

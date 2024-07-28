@@ -1,3 +1,9 @@
 venv/
 __pycache__/
 .config/
+.lock
+.qmqwu73thu2h3061790537~
+.breakpoints
+pyproject.toml
+replit.nix
+.replit
